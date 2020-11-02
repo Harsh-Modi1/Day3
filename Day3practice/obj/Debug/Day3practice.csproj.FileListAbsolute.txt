@@ -1,0 +1,5 @@
+D:\New folder (2)\CsharpDay3\Day3practice\bin\Debug\Day3practice.exe.config
+D:\New folder (2)\CsharpDay3\Day3practice\bin\Debug\Day3practice.exe
+D:\New folder (2)\CsharpDay3\Day3practice\bin\Debug\Day3practice.pdb
+D:\New folder (2)\CsharpDay3\Day3practice\obj\Debug\Day3practice.exe
+D:\New folder (2)\CsharpDay3\Day3practice\obj\Debug\Day3practice.pdb
